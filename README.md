@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Onkareshwar+Sharma....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;This+is+Onkareshwar+Sharma....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -10,11 +10,10 @@
   <code><a href="https://linkedin.com/in/onkareshwar-sharma-b1a40132a" title="LinkedIn Profile">💼 LinkedIn</a></code>
   <code><a href="https://x.com/HououinKyo1225" title="X Profile">🐦 X</a></code>
   <code><a href="https://onkareshwar-sharma-resume.vercel.app/" title="Portfolio">🌐 Portfolio</a></code>
-  <code><a href="https://github.com/OnkarDharma" title="GitHub Profile">💻 GitHub</a></code>
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Onkareshwar Sharma, CSE Undergrad, AI/ML & Full Stack Developer from India
+  Hi, I'm Onkareshwar Sharma.
   <br>
   <br>
   🎓 I'm currently pursuing my B.Tech in Computer Science & Engineering at IIIT Naya Raipur (2024 – 2028)
@@ -25,13 +24,13 @@
   <br>
   🏆 Hackathon and Case Study Competitions Winner.
   <br>
-  💬 Ask me anything about my projects <a href="https://github.com/OnkarDharma/OnkarDharma/issues" title="Issues">Here</a>
+  I constantly post on X about what I am working on currently, you can check it out if you wanna know what I have been upto lately.
   <br>
   📫 How to reach me: <a href="mailto:onkareshwarsharma7om@gmail.com">onkareshwarsharma7om@gmail.com</a>
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center"> Languages & Frameworks & Tools & Abilities </h2>
 <br>
 <p align="center">
   <img title="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -57,26 +56,16 @@
 </p>
 <hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center"> Stats </h2>
 <br>
 <p align="center">
   <div align="center">
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width="390" src="https://streak-stats.demolab.com/?user=OnkarDharma&theme=react&border=61dafb&hide_border=true" alt="OnkarDharma" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=OnkarDharma&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="center" width="390" src="https://streak-stats.demolab.com/?user=OnkarDharma&theme=react&border=61dafb&hide_border=true" alt="OnkarDharma" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnkarDharma&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OnkarDharma&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  
 </p>
 
 <hr>
